@@ -19,7 +19,5 @@
   <a href="https://wa.me/5541992651515" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <a href = "mailto:holtmanpurcote@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="mailto:holtmanpurcote@hotmail.com"></a>
   <a href="https://www.linkedin.com/in/yuri-holtman-purcote/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- 
-  ![Snake animation](https://github.com/YuriPurcote/YuriPurcote/blob/64cfcf0270d1774ade9a614d8df7c2e5bbbc89a2/.github/workflows/main.yml)
- 
+   
 </div>
