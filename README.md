@@ -20,7 +20,7 @@
   <a href = "mailto:holtmanpurcote@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="mailto:holtmanpurcote@hotmail.com"></a>
   <a href="https://www.linkedin.com/in/yuri-holtman-purcote/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-![Snake animation](https://github.com/YuriPurcote/YuriPurcote/blob/output/github-contribution-grid-snake.svg)
+
   
 </div>
 
